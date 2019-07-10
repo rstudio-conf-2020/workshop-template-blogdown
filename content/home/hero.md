@@ -34,7 +34,7 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "https://web.cvent.com/event/36ebe042-0113-44f1-8e36-b9bc5d0733bf/summary"
   label = "Register Now"
   icon_pack = ""
   icon = ""
@@ -45,7 +45,7 @@ hero_media = "2020-Conf-600x600.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+  label = 'Early Bird discount ends August 31'
 +++
 
 A two-day workshop to give you hands-on experience working with data across R, Excel, and Google Sheets focusing on: 
