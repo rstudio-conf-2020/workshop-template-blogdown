@@ -3,7 +3,7 @@
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Details"
 subtitle = ""
@@ -35,6 +35,6 @@ email_form = 0
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["50px", "0", "50px", "0"]
 +++
 
