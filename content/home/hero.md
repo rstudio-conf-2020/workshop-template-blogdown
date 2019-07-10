@@ -32,7 +32,7 @@ hero_media = "2020-Conf-600x600.jpg"
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "0", "0px", "0"]
+  padding = ["100px", "0", "100px", "0"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.

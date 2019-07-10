@@ -26,9 +26,36 @@ section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8{
   padding-top: 30px !important;
 }
 
+/* Navbar */
+
 /* set max height of logo */
 
 .navbar-brand img {
   max-height: 44px;
+}
+
+.navbar {
+  min-height: 80px !important;
+}
+
+#navbar-main {
+    box-shadow: none;
+}
+
+body {
+  margin-top: 80px !important;
+}
+
+/* White space */
+
+
+.hero-lead {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  font-size: 1rem;
+}
+
+.hero-media {
+  padding-left: 2em;
 }
 
