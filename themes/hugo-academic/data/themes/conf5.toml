@@ -5,17 +5,17 @@ name = "workshop_theme4"
 light = true
 
 # Primary
-primary ="#ec8107" #accent color 
+primary ="#5db3b3" #accent color 
 
 
 # Links
-link = "#e88a6f" 
-link_hover = "#efaa96"
+link = "#5db3b3" 
+link_hover = "#4a8888" # hover color for icons beneath profile
 
 # Menu
-menu_primary = "#ffffff"
-menu_text = "#ada9a9"
-menu_text_active = "#ec8107"
+menu_primary = "#d6dcdc" # Navbar color
+menu_text = "#ffffff"
+menu_text_active = "#5db3b3"
 menu_title = "#737373"
 
 # Backgrounds

@@ -5,13 +5,13 @@ name = "workshop_theme3"
 light = true
 
 # Primary
-primary ="#5e83dc" #accent color 
+primary ="#c37280" #accent color 
 primary_light = "#767071" 
 primary_dark = "#575757"
 
 # Links
-link = "#5e83dc" 
-link_hover = "#98aee4" # hover color for icons beneath profile
+link = "#c37280"
+link_hover = "#40181e" # hover color for icons beneath profile
 
 # Menu
 menu_primary = "#c37280"
