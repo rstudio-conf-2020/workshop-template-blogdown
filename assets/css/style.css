@@ -1,0 +1,34 @@
+/* fix navbar font weight */
+
+.navbar-light .navbar-nav>.nav-item>.nav-link,
+.navbar-light .navbar-nav>.nav-item>.nav-link:focus,
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  font-weight: 500;
+}
+
+/* change dark headers and body text color */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #404040;
+}
+
+body {
+  color: #404040;
+}
+
+.portrait-title h2 {
+  color: #404040;
+}
+
+/* fix padding of profile description */
+
+section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8{
+  padding-top: 30px !important;
+}
+
+/* set max height of logo */
+
+.navbar-brand img {
+  max-height: 44px;
+}
+
