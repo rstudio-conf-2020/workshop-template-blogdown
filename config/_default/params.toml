@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
 phone = ""
-address = "Hilton San Francisco Union Square, 333 O'Farrell Street, San Francisco, CA 94102"
+address = "Hilton San Francisco Union Square<br>333 O'Farrell Street<br>San Francisco, CA 94102"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday January 27, 09:00 to 17:00<br>
@@ -96,7 +96,7 @@ map = 2
 map_api_key = ""
 latitude = "37.7859"
 longitude = "-122.4105"
-zoom = 15
+zoom = 14
 
 ############################
 ## Plugins                ##
