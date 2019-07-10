@@ -1,0 +1,15 @@
+# Font style metadata
+name = "workshop_font2"
+
+# Optional Google font URL
+google_fonts = "Abril+Fatface|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600|Arvo|Montserrat|Lato"
+
+# Font families
+heading_font = "Arvo"
+body_font = "Lato"
+nav_font = "Arvo"
+mono_font = "Cutive Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
