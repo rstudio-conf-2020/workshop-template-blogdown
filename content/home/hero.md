@@ -17,7 +17,7 @@ hero_media = "2020-Conf-600x600.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
+  # color = "white"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
