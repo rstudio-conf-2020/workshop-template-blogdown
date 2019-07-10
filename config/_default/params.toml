@@ -14,7 +14,7 @@ day_night = false
 font = "conf2"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A 2-day workshop at rstudio::conf 2020 in San Francisco, California (January 27-28)"
+description = "A two-day workshop at rstudio::conf 2020 in San Francisco, California (January 27-28)"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "2020-Conf-600x600.jpg"
