@@ -5,7 +5,7 @@ name = "workshop_theme4"
 light = true
 
 # Primary
-primary ="#ec8107" #accent color 
+primary ="#f7ab37" #accent color 
 
 
 # Links
@@ -13,9 +13,9 @@ link = "#e88a6f"
 link_hover = "#efaa96"
 
 # Menu
-menu_primary = "#ffffff"
-menu_text = "#ada9a9"
-menu_text_active = "#ec8107"
+menu_primary = "#17a2b8"
+menu_text = "#fcfcfc"
+menu_text_active = "#c0e1e6"
 menu_title = "#737373"
 
 # Backgrounds

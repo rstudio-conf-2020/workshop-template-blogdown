@@ -12,9 +12,9 @@ link = "#1f547dbd"
 link_hover = "#1f547d"
 
 # Menu
-menu_primary = "#fcfcfc"
-menu_text = "#1f547dbd"
-menu_text_active = "#1f547d"
+menu_primary = "#b6d3ec"
+menu_text = "#1b5484"
+menu_text_active = "#fcfcfc"
 menu_title = "#1f547d"
 
 # Backgrounds
