@@ -40,9 +40,6 @@ section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8{
 
 #navbar-main {
     box-shadow: none;
-    text-transform: lowercase;
-    background: #fcfcfc;
-    /*rgba(255,255,255,0.95)*/;
 }
 
 body {
