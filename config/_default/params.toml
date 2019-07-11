@@ -21,7 +21,7 @@ description = "A two-day workshop at rstudio::conf 2020 in San Francisco, Califo
 sharing_image = "2020-Conf-600x600.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "@rstudio"
+twitter = "rstudio"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
