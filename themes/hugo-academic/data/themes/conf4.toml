@@ -5,20 +5,20 @@ name = "workshop_theme4"
 light = true
 
 # Primary
-primary ="#f7ab37" #accent color 
+primary ="#E7553C" #accent color 
 
 
 # Links
-link = "#e88a6f" 
-link_hover = "#efaa96"
+link = "#E7553C" 
+link_hover = "#e7553ca1"
 
 # Menu
-menu_primary = "#17a2b8"
-menu_text = "#fcfcfc"
-menu_text_active = "#c0e1e6"
-menu_title = "#737373"
+menu_primary = "#447099"
+menu_text = "#ffffff"
+menu_text_active = "#b0c2d2"
+menu_title = "#ffffff"
 
 # Backgrounds
-background = "#ffffff"
-home_section_odd = "#ffffff"
-home_section_even = "#ffffff"
+background = "#f8f8f8"
+home_section_odd = "#f8f8f8"
+home_section_even = "#f8f8f8"
