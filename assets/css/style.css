@@ -59,3 +59,8 @@ body {
   padding-left: 2em;
 }
 
+a.hero-cta-alt:active,
+a.hero-cta-alt:focus,
+a.hero-cta-alt:hover {
+  transform: none;
+}
