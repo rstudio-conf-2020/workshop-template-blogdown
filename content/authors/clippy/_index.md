@@ -28,9 +28,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/msexcel
-- icon: link
-  icon_pack: fas
-  link: https://allisonhorst.github.io/
 - icon: github
   icon_pack: fab
   link: https://github.com/jennybc/scary-excel-stories

@@ -25,12 +25,12 @@ organizations:
   url: ""
 role: Professor of Artificial Intelligence
 social:
+- icon: home
+  icon_pack: fas
+  link: https://jules32.github.io/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/juliesquid
-- icon: link
-  icon_pack: fas
-  link: https://jules32.github.io/
 - icon: github
   icon_pack: fab
   link: https://github.com/jules32

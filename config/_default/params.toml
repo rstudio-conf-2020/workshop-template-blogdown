@@ -4,12 +4,12 @@
 # Color theme.
 #   Choose from:
 #   `conf_2020`, `conf1`, `conf2`, `conf3`, or `conf4`.
-color_theme = "conf4"
+color_theme = "conf_2020"
 
 # Enable users to switch between day and night mode?
 day_night = false
 
-# Font style.
+# Font style; please do not change.
 font = "conf_2020"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
@@ -105,7 +105,7 @@ zoom = 14
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 
-plugins_css = ["style"]
+plugins_css = ["conf-2020"]
 plugins_js  = []
 
 ############################
