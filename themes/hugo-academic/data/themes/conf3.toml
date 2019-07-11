@@ -5,21 +5,20 @@ name = "workshop_theme3"
 light = true
 
 # Primary
-primary ="#c37280" #accent color 
-primary_light = "#767071" 
-primary_dark = "#575757"
+primary ="#4D8DC9" #accent color 
+
 
 # Links
-link = "#c37280"
-link_hover = "#40181e" # hover color for icons beneath profile
+link = "#4D8DC9"
+link_hover = "#75AADB" # hover color for icons beneath profile
 
 # Menu
-menu_primary = "#c37280"
-menu_text = "#fcfcfc"
-menu_text_active = "#40181e" 
+menu_primary = "#94c36e"
+menu_text = "#ffffff"
+menu_text_active = "#d4e7c5" 
 menu_title = "#fcfcfc"
 
 # Backgrounds
-background = "#f0e2e2"
-home_section_odd = "#fcfcfc"
-home_section_even = "#fcfcfc"
+background = "#ffffff"
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
