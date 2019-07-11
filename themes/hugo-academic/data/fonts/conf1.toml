@@ -2,12 +2,12 @@
 name = "workshop_font1"
 
 # Optional Google font URL
-google_fonts = "Abril+Fatface|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600|Crimson+Text|Montserrat"
+google_fonts = "Hammersmith+One|Cutive+Mono|Josefin+Slab:300,400,600,700|Open+Sans:400,600,700,800|Raleway:300,400,500,600|Crimson+Text|Montserrat"
 
 # Font families
-heading_font = "Crimson Text"
+heading_font = "Hammersmith One"
 body_font = "Raleway"
-nav_font = "Crimson Text"
+nav_font = "Raleway"
 mono_font = "Cutive Mono"
 
 # Font size

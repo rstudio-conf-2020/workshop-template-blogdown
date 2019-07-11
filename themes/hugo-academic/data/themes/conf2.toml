@@ -1,11 +1,11 @@
 # Theme metadata
-name = "workshop_theme1"
+name = "workshop_theme2"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary ="#ff5252" #accent color 
+primary ="#17a2b8" #accent color 
 primary_light = "#767071" 
 primary_dark = "#575757"
 
@@ -14,10 +14,10 @@ link = "#767071"
 link_hover = "#3c2f31" # hover color for icons beneath profile
 
 # Menu
-menu_primary = "#767071"
+menu_primary = "#17a2b8"
 menu_text = "#fcfcfc"
 menu_text_active = "#3c2f31" 
-menu_title = "#fcfcfc"
+menu_title = "#767071"
 
 # Backgrounds
 background = "#fcfcfc"
