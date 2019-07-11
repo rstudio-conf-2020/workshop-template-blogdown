@@ -42,6 +42,11 @@ section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8{
     box-shadow: none;
 }
 
+
+a.nav-link {
+  text-transform: uppercase;
+}
+
 body {
   margin-top: 80px !important;
 }
@@ -59,3 +64,6 @@ body {
   padding-left: 2em;
 }
 
+.wg-hero .btn {
+  color: white;
+}
